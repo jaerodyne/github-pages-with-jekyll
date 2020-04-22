@@ -1,6 +1,6 @@
 # Your GitHub Learning Lab Repository for GitHub Pages
 
-Welcome to **my** repository for tge GitHub Learning Lab course. This repository will be used during the different activities that I will be guided through. 
+Welcome to **my** repository for the GitHub Learning Lab course. This repository will be used during the different activities that I will be guided through. 
 
 _Who are you_ wise sage?
 
